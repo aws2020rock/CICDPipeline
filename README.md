@@ -1,5 +1,4 @@
 
 Sample Java Applicaiton V1.1s 
 
-
-adfasdf
+CICD project is built
